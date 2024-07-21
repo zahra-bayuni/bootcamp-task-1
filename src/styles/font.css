@@ -1,0 +1,50 @@
+/* BEGIN Bold */
+@font-face {
+	font-family: 'IranianSansBold';
+	src: url('/assets/fonts/IRANSansWeb_Bold.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+/* END Bold */
+
+/* BEGIN Regular */
+@font-face {
+	font-family: 'IranianSans';
+	src: url('/assets/fonts/IRANSans-web.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+/* END Regular */
+
+/* BEGIN Light*/
+@font-face {
+	font-family: 'IranianSansLight';
+	src: url('/assets/fonts/IRANSansWeb_Light.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+/* END Light*/
+
+/* BEGIN Medium*/
+@font-face {
+	font-family: 'IranianSansMedium';
+	src: url('/assets/fonts/IRANSansWeb_Medium.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+/* END Medium */
+
+/* BEGIN Number */
+@font-face {
+	font-family: 'IranianSansNumbers';
+	src: url('/assets/fonts/yekannumbers-regular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+/* END Number  */
+body,a,p{
+    font-family: "IranianSans";
+}
+h1,h2,h3{
+    font-family: 'IranianSansBold';
+}
