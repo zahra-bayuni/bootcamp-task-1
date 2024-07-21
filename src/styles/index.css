@@ -243,7 +243,3 @@ h2{
     display: flex;
     justify-content: flex-end;
 }
-.bg-user {
-    width: 540px; height: 360px;
-    background: url('css_sprites.png') -10px -2030px;
-}
